@@ -51,12 +51,6 @@ python kasir.py
 ├── README.md        # Dokumentasi
 ```
 
-## Contoh Output
-```
-![Capture1](https://github.com/user-attachments/assets/6e61e40a-43af-435b-a477-63b6fcf2432b)
-![Capture](https://github.com/user-attachments/assets/240289ec-e5e5-46a4-8740-4bc490803b44)
-```
-
 ## Pengembangan di Masa Depan
 - Menambahkan fitur untuk diskon dan pajak.
 - Menyimpan riwayat transaksi ke dalam file.
