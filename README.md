@@ -53,39 +53,8 @@ python kasir.py
 
 ## Contoh Output
 ```
-=== Barang Toko Bimo ===
-Nama Barang       Harga (Rp)
----------------------------
-Sabun            5000
-Shampoo         15000
-Pasta Gigi      10000
-Detergen         2000
-Minyak Goreng   25000
-Gula Pasir      12000
-Tissue           8000
-Cuka             7000
-
-Masukkan nama barang yang ingin dibeli (atau ketik 'selesai' untuk selesai): selesai
-
-=== Rincian Pesanan ===
-Nama Barang    Jumlah    Harga Satuan (Rp)    Subtotal (Rp)
-----------------------------------------------------------
-Sabun              1              5000              5000
-Shampoo            1             15000             15000
-...
-Total yang harus dibayar: Rp 77000
-Masukkan jumlah yang dibayar: Rp 100000
-
-=== STRUK PEMBELIAN ===
-Nama Barang    Jumlah    Harga Satuan (Rp)    Subtotal (Rp)
-----------------------------------------------------------
-Sabun              1              5000              5000
-...
-Total               Rp 77000
-Dibayar             Rp 100000
-Kembalian           Rp 23000
-
-Terima kasih telah berbelanja di Toko Kami!
+![Capture1](https://github.com/user-attachments/assets/6e61e40a-43af-435b-a477-63b6fcf2432b)
+![Capture](https://github.com/user-attachments/assets/240289ec-e5e5-46a4-8740-4bc490803b44)
 ```
 
 ## Pengembangan di Masa Depan
